@@ -1,0 +1,7 @@
+.squaresStyle{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    border: 10px;
+    border-color: black;
+}
